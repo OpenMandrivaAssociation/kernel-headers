@@ -1,0 +1,3 @@
+The kernel-headers package is now built as part of the kernel build process,
+to make sure it is always in sync with the actual kernel and architecture
+being used.
